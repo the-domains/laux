@@ -1,0 +1,23 @@
+name: laux
+favicon: null
+layout_spectrum: 0.8381439847871661
+typography_spectrum: 0.32467645895667374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.030866787303239107
+  lightness: 0.8723555481992662
+  saturation: 0.6879771477542818
+  rhythmicContrast: 0.5863725633826107
+purpose: []
